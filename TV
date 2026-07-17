@@ -1,0 +1,154 @@
+{
+  "welcome_message": "أهلاً بك في عالم Positive Energy! 🚀\nاستمتع بتجربة فريدة مع شاشة التلفاز التفاعلية",
+  
+  "content": [
+    {
+      "type": "text",
+      "data": {
+        "text": "🎉 مرحباً بك في عالم Positive Energy!\n\nتطبيقك الشامل للدراسة والترفيه\n\n✨ مميزاتنا:\n• محتوى تعليمي متنوع\n• شات تفاعلي مع الطلاب\n• قرآن كريم كامل\n• ملاحظات وواجبات\n• تحديثات مستمرة\n\nاستمتع بتجربة فريدة! 📚"
+      }
+    },
+    {
+      "type": "image",
+      "data": {
+        "url": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600",
+        "caption": "📚 ابدأ رحلتك التعليمية معنا"
+      }
+    },
+    {
+      "type": "image",
+      "data": {
+        "url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600",
+        "caption": "👥 مجتمع طلابي متفاعل"
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+        "caption": "🎬 فيديو تحفيزي للدراسة"
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+        "caption": "🎓 نصائح للتفوق الدراسي"
+      }
+    },
+    {
+      "type": "text",
+      "data": {
+        "text": "💡 نصائح ذهبية للدراسة:\n\n1️⃣ نظم وقتك بذكاء\n2️⃣ خذ فترات راحة منتظمة\n3️⃣ راجع دروسك أولاً بأول\n4️⃣ شارك في المناقشات\n5️⃣ استخدم الخرائط الذهنية\n6️⃣ علم غيرك ما تعلمته\n\nالنجاح رحلة وليس محطة! 🌟"
+      }
+    },
+    {
+      "type": "image",
+      "data": {
+        "url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600",
+        "caption": "📝 نظم ملاحظاتك باحترافية"
+      }
+    },
+    {
+      "type": "web",
+      "data": {
+        "url": "https://flutter.dev/showcase",
+        "caption": "🌐 اكتشف تطبيقات مذهلة"
+      }
+    },
+    {
+      "type": "link",
+      "data": {
+        "url": "https://www.youtube.com/results?search_query=study+tips",
+        "text": "📚 شاهد فيديوهات نصائح الدراسة على يوتيوب"
+      }
+    },
+    {
+      "type": "text",
+      "data": {
+        "text": "🤲 دعاء المذاكرة:\n\nاللهم إني أسألك فهم النبيين\nوحفظ المرسلين والملائكة المقربين\nاللهم اجعل ألسنتنا عامرة بذكرك\nوقلوبنا بخشيتك\nوأسرارنا بطاعتك\nإنك على كل شيء قدير"
+      }
+    },
+    {
+      "type": "image",
+      "data": {
+        "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600",
+        "caption": "📖 بيئة دراسية مثالية"
+      }
+    },
+    {
+      "type": "link",
+      "data": {
+        "url": "https://www.coursera.org/",
+        "text": "🎓 دورات مجانية من أفضل الجامعات العالمية"
+      }
+    },
+    {
+      "type": "text",
+      "data": {
+        "text": "🌟 كلمات تحفيزية:\n\n'العلم نور والجهل ظلام'\n\n'من جد وجد ومن زرع حصد'\n\n'اطلب العلم من المهد إلى اللحد'\n\n'العلم في الصغر كالنقش على الحجر'\n\nاستمر في التعلم والتطور! 💪"
+      }
+    },
+    {
+      "type": "web",
+      "data": {
+        "url": "https://www.wikipedia.org/",
+        "caption": "🌐 موسوعة ويكيبيديا - كنز المعرفة"
+      }
+    },
+    {
+      "type": "video",
+      "data": {
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+        "caption": "🏆 قصص نجاح ملهمة"
+      }
+    },
+    {
+      "type": "image",
+      "data": {
+        "url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600",
+        "caption": "🤝 العمل الجماعي سر النجاح"
+      }
+    },
+    {
+      "type": "link",
+      "data": {
+        "url": "https://www.khanacademy.org/",
+        "text": "🎯 أكاديمية خان - تعلم مجاني للجميع"
+      }
+    },
+    {
+      "type": "text",
+      "data": {
+        "text": "⏰ جدول المذاكرة المثالي:\n\n🌅 الصباح (6-8): المواد الصعبة\n☀️ الضحى (9-12): المراجعة\n🌤️ الظهر (1-3): حل التمارين\n🌅 العصر (4-6): مواد الحفظ\n🌙 المساء (7-9): مراجعة سريعة\n\nلا تنسَ الراحة بين الفترات! 😴"
+      }
+    },
+    {
+      "type": "image",
+      "data": {
+        "url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600",
+        "caption": "✍️ اكتب أهدافك وحققها"
+      }
+    },
+    {
+      "type": "link",
+      "data": {
+        "url": "https://www.edx.org/",
+        "text": "🌍 منصة edX - دورات من جامعات عالمية"
+      }
+    },
+    {
+      "type": "web",
+      "data": {
+        "url": "https://github.com/",
+        "caption": "💻 GitHub - منصة المبرمجين"
+      }
+    },
+    {
+      "type": "text",
+      "data": {
+        "text": "🎯 أهدافنا في Positive Energy:\n\n✅ توفير محتوى تعليمي متميز\n✅ بناء مجتمع طلابي قوي\n✅ تسهيل الوصول للمعلومات\n✅ تحفيز الطلاب على التعلم\n✅ تطوير مهارات الدراسة\n✅ دعم الطلاب نفسياً ومعنوياً\n\nمعاً نحو مستقبل أفضل! 🌈"
+      }
+    }
+  ]
+}
